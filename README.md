@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felippe Negrão de Oliveira</h1>
-<h3 align="center">A passionate student of Software Engineering at Federal Technological University of Paraná</h3>
+<h3 align="center">A passionate student of Software Engineering at Federal Technological University of Paraná. Nowadays, I`m a Junior Software Engineer at Captis.app, where we are building a new future.</h3>
 
 - 🌱 I’m currently learning **Flutter.**
 
