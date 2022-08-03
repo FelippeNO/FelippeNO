@@ -1,4 +1,4 @@
-<h3 align="center">A passionate student of Software Engineering at Federal Technological University of Paraná. Nowadays, I`m a Junior Software Engineer at Captis.app, where we are building a new future.</h3>
+<h3 align="center">A passionate student of Software Engineering at Federal Technological University of Paraná.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felippeno&label=Profile%20views&color=0e75b6&style=flat" alt="felippeno" /> </p>
 
