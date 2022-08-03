@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/felippeno" target="blank"><img src="https://img.shields.io/twitter/follow/felippeno?logo=twitter&style=for-the-badge" alt="felippeno" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, SQL, Java, C...**
+- 🌱 I’m currently learning **Flutter, Swift, SQL, Java, C...**
 
 - 💬 Ask me about **Flutter and C.**
 
